@@ -1,0 +1,64 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#name {
+    display: inline-block;
+    width: 100%;
+    background-color: #92f442;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Herr Von Muellerhoff', cursive;
+    font-size: 3em;
+    color: white;
+    margin: .5% 40%;
+}
+
+#nav {
+    display: inline-table;
+    width: 100%
+}
+
+nav a {
+    margin: .8% 9.6%;
+    float: left;
+    text-decoration: none;
+    text-shadow: .1em .1em .1em black;
+    color: #92f442;
+    font-size: 1.3em;
+}
+
+/*
+#picbox {
+    height: 76%;
+    width: 25%;
+    display: inline-block;
+    background-color: #92f442;
+    border: 1px solid none;
+    margin: 0 10%;
+    border-radius: 50%;
+}
+
+*/
+
+#picbox {
+    height: 75%;
+    width: 100%;
+    margin: 0;
+    border-top: 1em solid #92f442;
+    
+}
+
